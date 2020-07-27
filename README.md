@@ -5,7 +5,7 @@ Analyzing ride sharing data by city type to generate a data summary and look for
 
 ## Results
 
-###Visualizations
+### Visualizations
 
 * The following is a summary of ride sharing data by city type:
 ![Results](/analysis/summary.png)
@@ -13,7 +13,7 @@ Analyzing ride sharing data by city type to generate a data summary and look for
 * The following are the total monthly fares by city type:
 ![Chart](/analysis/PyBer_fare_summary.png)
 
-###Description
+### Description
 
 The results show that Urban cities have the most total rides, total drivers and total fares, followed by Suburban and then Rural cities. However, Rural cities show the highest average fare per ride and average fare per driver, followed by Suburban and then Urban cities. Total fares for each week follow the summary data, with Urban cities generating the most revenue each week, followed by Suburban and Rural cities.
 
